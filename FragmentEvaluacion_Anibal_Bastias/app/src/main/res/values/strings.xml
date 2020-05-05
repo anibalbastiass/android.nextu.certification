@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fragments Next U</string>
+    <string name="instrument_title_prefix">Instrumentos de </string>
+    <string name="main_activity_title">Instrumentos Musicales</string>
+    <string name="instrument_detail_description">Seleccione una de las clases de instrumentos musicales a la izquierda para ver su descripción</string>
+    <string name="instrument_detail_description_footer">Facultad de Artes\nwww.fdartesnextu.com</string>
+    <string name="instrument_string_title">Cuerda</string>
+    <string name="instrument_string_description">Los instrumentos de cuerda, conocidos tambien como cordofonos, son aquellos que producen sonidos gracias a las vibraciones de una o mas cuerdas, normalmente su sonido amplificado mediante una caja de resonancia</string>
+    <string name="instrument_drums_title">Percusion</string>
+    <string name="instrument_drums_description">Los instrumentos de percusion son aquellos instrumentos musicales que emiten sonidos al ser golpeados o agitados. Este se puede considerar el tipo mas antiguo de instrumento musical. La percusion se distingue debido a que es capaz de producir gran variedad de timbres.</string>
+    <string name="instrument_brass_title">Viento</string>
+    <string name="instrument_brass_description">Los instrumentos de viento, entendidos tambien como aerofonos, son el conjunto de instrumentos musicales que generan su sonido por la vibracion del viento y del aire que contienen, no necesitan cuerdas o membranas dado que solo necesitan emplear el viento</string>
+    <string name="instrument_electric_title">Electricos</string>
+    <string name="instrument_electric_description">Los instrumentos musicales electricos son aquellos cuyo sonido producido es determinado o afectado por aparatos electronicos. Tambien se les conoce como instrumentos musciales amplificados, ya que hacen uso de amplificadores electronicos para potenciar su sonido</string>
+    <string name="toast_favorite">Instrumento añadido a tus favoritos</string>
+    <string name="toast_play">Reproduciendo sonido de instrumento</string>
+</resources>

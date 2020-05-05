@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.nextu.anibalbastias">
+
+    <application
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:allowBackup="false"
+        android:fullBackupContent="false"
+        tools:replace="android:icon"
+        tools:ignore="GoogleAppIndexingWarning">
+
+        <activity
+            android:name=".app.WelcomeActivity"
+            android:label="@string/welcome_activity_label">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".app.AdvancedAppsDevActivity"
+            android:label="@string/advanced_apps_dev_activity_label"/>
+
+        <activity android:name=".app.AdvancedConceptsActivity"
+            android:label="@string/advanced_concepts_activity_label"/>
+
+        <activity android:name=".app.MaterialDesignActivity"
+            android:label="@string/material_design_activity_label"/>
+
+    </application>
+
+</manifest>

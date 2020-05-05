@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lib</string>
+    <string name="welcome_activity_label">Bienvenida</string>
+    <string name="advanced_apps_dev_activity_label">Desarrollo de Apps Avanzadas</string>
+    <string name="advanced_concepts_activity_label">Conceptos Avanzados</string>
+    <string name="material_design_activity_label" translatable="false">Material Design</string>
+    <string name="welcome_activity_message">Bienvenido al curso de Android Avanzado</string>
+    <string name="material_design_activity_message">Android Material Design</string>
+    <string name="advanced_concepts_activity_message">Conceptos Avanzados de Android</string>
+    <string name="advanced_apps_dev_activity_message">Desarrollo de Aplicaciones Avanzadas en Android</string>
+</resources>

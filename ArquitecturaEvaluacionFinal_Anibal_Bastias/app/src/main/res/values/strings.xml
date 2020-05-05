@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Arquitectura NextU</string>
+    <string name="activity_login_label">Login</string>
+    <string name="activity_login_user_hint">Escribe tu nombre de usuario</string>
+    <string name="activity_login_password_hint">Escribe tu contraseña</string>
+    <string name="activity_login_forgot_password_button">Olvidé mis datos</string>
+    <string name="activity_login_sign_in_button">Iniciar Sesión</string>
+    <string name="activity_login_error_form">Debes ingresar ambos datos de usuario.</string>
+    <string name="activity_login_forgot_snackbar_title">Debes recuperar tu cuenta</string>
+    <string name="activity_login_forgot_snackbar_button">Recuperar</string>
+    <string name="activity_login_forgot_password_success">Se ha enviado la información de recuperación de la cuenta tu email</string>
+    <string name="activity_gallery_label">Galeria</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="widget_title">Gestor de Diseños</string>
+    <string name="widget_subtitle">Nombre de usuario</string>
+</resources>
